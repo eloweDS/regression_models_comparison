@@ -24,11 +24,5 @@ An Excel sheet summarizing evaluation metrics for all models applied to the data
 Includes metrics like accuracy, precision, recall, F1-score, and RMSE (if applicable).
 Final Presentation.pptx
 
-A PowerPoint presentation summarizing the project.
-Highlights:
-Goals and objectives.
-Key insights and findings from the datasets.
-Summary of evaluation metrics and comparisons.
-README.md
 
 This document provides an overview of the project structure and usage.
